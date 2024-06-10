@@ -260,11 +260,6 @@ header.index .small div.menu li a {
     transition: all .5s;
 }
 
-header.index .small div.menu li div.detail-menu {
-    background: #fff;
-    border-bottom: 1px solid #e2e2e2;
-}
-
 header.index .small div.language li a {
     color: #000;
     transition: all .5s;
